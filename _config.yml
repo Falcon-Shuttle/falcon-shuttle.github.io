@@ -4,8 +4,8 @@ baseurl: ""
 url: "https://falcon-shuttle.github.io"
 
 # site settings
-taglong: '[+1 (435) 699-8482](tel:1-435-699-8482)'
-tagshort: '[+1 (435) 699-8482](tel:1-435-699-8482)'
+taglong: [+1 (435) 699-8482](tel:1-435-699-8482)
+tagshort: [+1 (435) 699-8482](tel:1-435-699-8482)
 cv: false
 
 # author settings
