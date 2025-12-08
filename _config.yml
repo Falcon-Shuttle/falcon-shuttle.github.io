@@ -3,6 +3,8 @@ description: "Falcon LLC's Website"
 baseurl: ""
 url: "https://falcon-shuttle.github.io"
 
+cv: false
+
 exclude:
   - demo/
   - cvless.gemspec
