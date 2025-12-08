@@ -3,6 +3,9 @@ description: "Falcon LLC's Website"
 baseurl: ""
 url: "https://falcon-shuttle.github.io"
 
+# site settings
+taglong: Falcon LLC's Website
+tagshort: Falcon Shuttle
 cv: false
 
 # author settings
