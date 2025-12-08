@@ -5,6 +5,12 @@ url: "https://falcon-shuttle.github.io"
 
 cv: false
 
+# author settings
+author:
+  email: username@domain.com
+photo: assets/files/Skiing-Falcon.png
+phone: +1 234 567 890
+
 exclude:
   - demo/
   - cvless.gemspec
