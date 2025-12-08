@@ -7,9 +7,8 @@ cv: false
 
 # author settings
 author:
-  email: username@domain.com
+  phone: +1 (435) 699-8482
 photo: assets/files/Skiing-Falcon.png
-phone: +1 (435) 699-8482
 
 exclude:
   - demo/
