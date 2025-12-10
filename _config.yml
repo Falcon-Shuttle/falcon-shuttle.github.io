@@ -6,7 +6,9 @@ url: "https://falcon-shuttle.github.io"
 # site settings
 taglong: +1 (435) 699-8482
 tagshort: +1 (435) 699-8482
-cv: false
+
+profile:
+  cv: false
 
 # author settings
 author:
