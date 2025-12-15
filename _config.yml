@@ -14,6 +14,7 @@ profile:
 author:
   phone: +1 (435) 699-8482
 photo: assets/files/Skiing-Falcon.png
+background: assets/files/Mountains-Transparent.png
 
 exclude:
   - demo/
